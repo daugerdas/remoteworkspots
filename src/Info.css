@@ -1,0 +1,67 @@
+.info-container {
+    margin: 2em;
+}
+
+.info {
+    border: 1px solid #eee;
+    margin-top: 3em;
+    border-radius: 1em;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    padding: 2em;
+}
+
+.name {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.category {
+    display: flex;
+    gap: 0.3em;
+}
+
+.address {
+    border-top: 1px solid #eee;
+    padding: 2rem;
+    font-size: 0.8rem;
+}
+
+.desc {
+    padding: 1rem 2rem 2rem;
+    font-size: 0.8rem;
+}
+
+.header {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+.header-text {
+    font-size: 0.6rem;
+}
+
+.hours {
+    display: flex;
+    padding: 0 2rem;
+    gap: 0.5rem;
+    font-size: 0.8rem;
+}
+
+.expand-button {
+    margin: 0.5em 2rem 2rem;
+    border-radius: 0.5em;
+    background-color: #03c567;
+    padding: 0.5em 2em;
+    color: #fff;
+    border: none;
+}
+
+.info-description {
+    padding-top: 2em;
+    text-align: center;
+}
