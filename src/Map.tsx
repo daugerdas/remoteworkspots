@@ -2,7 +2,6 @@ import React, { Dispatch, SetStateAction } from "react";
 import { GoogleMap, useJsApiLoader } from "@react-google-maps/api";
 import { Marker } from "@react-google-maps/api";
 import data from "./data.json";
-import InfoMarker from "./InfoMarker";
 
 type MarkerType = {
   id: number;
