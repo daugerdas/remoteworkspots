@@ -11,9 +11,9 @@
             "tuesday": {"open": 7, "closed": 23},
             "wednesday": {"open": 7, "closed": 23},
             "thursday": {"open": 7, "closed": 23},
-            "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "friday": {"open": 7, "closed": 0},
+            "saturday": {"open": 8, "closed": 0},
+            "sunday": {"open": 8, "closed": 23}
         }
     },
     {
@@ -29,8 +29,8 @@
             "wednesday": {"open": 7, "closed": 23},
             "thursday": {"open": 7, "closed": 23},
             "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "saturday": {"open": 8, "closed": 23},
+            "sunday": {"open": 8, "closed": 23}
         }
     },
     {
@@ -41,13 +41,13 @@
         "category": "coffeeshop",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a est facilisis, fermentum tellus sed, varius nibh. Pellentesque varius nec augue efficitur sollicitudin. Suspendisse felis diam, tempus et euismod et, gravida elementum tortor.",
         "hours": {
-            "monday": {"open": 7, "closed": 23},
-            "tuesday": {"open": 7, "closed": 23},
-            "wednesday": {"open": 7, "closed": 23},
-            "thursday": {"open": 7, "closed": 23},
-            "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "monday": {"open": 7, "closed": 22},
+            "tuesday": {"open": 7, "closed": 22},
+            "wednesday": {"open": 7, "closed": 22},
+            "thursday": {"open": 7, "closed": 22},
+            "friday": {"open": 7, "closed": 22},
+            "saturday": {"open": 8, "closed": 22},
+            "sunday": {"open": 8, "closed": 22}
         }
     },
     {
@@ -58,13 +58,13 @@
         "category": "coffeeshop",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a est facilisis, fermentum tellus sed, varius nibh. Pellentesque varius nec augue efficitur sollicitudin. Suspendisse felis diam, tempus et euismod et, gravida elementum tortor.",
         "hours": {
-            "monday": {"open": 7, "closed": 23},
-            "tuesday": {"open": 7, "closed": 23},
-            "wednesday": {"open": 7, "closed": 23},
-            "thursday": {"open": 7, "closed": 23},
-            "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "monday": {"open": 7, "closed": 22},
+            "tuesday": {"open": 7, "closed": 22},
+            "wednesday": {"open": 7, "closed": 22},
+            "thursday": {"open": 7, "closed": 22},
+            "friday": {"open": 7, "closed": 22},
+            "saturday": {"open": 8, "closed": 23},
+            "sunday": {"open": 8, "closed": 22}
         }
     },
     {
@@ -75,13 +75,13 @@
         "category": "coffeeshop",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a est facilisis, fermentum tellus sed, varius nibh. Pellentesque varius nec augue efficitur sollicitudin. Suspendisse felis diam, tempus et euismod et, gravida elementum tortor.",
         "hours": {
-            "monday": {"open": 7, "closed": 23},
-            "tuesday": {"open": 7, "closed": 23},
-            "wednesday": {"open": 7, "closed": 23},
-            "thursday": {"open": 7, "closed": 23},
-            "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "monday": {"open": 7, "closed": 21},
+            "tuesday": {"open": 7, "closed": 21},
+            "wednesday": {"open": 7, "closed": 21},
+            "thursday": {"open": 7, "closed": 21},
+            "friday": {"open": 7, "closed": 21},
+            "saturday": {"open": 8, "closed": 21},
+            "sunday": {"open": 8, "closed": 21}
         }
     },
     {
@@ -97,8 +97,8 @@
             "wednesday": {"open": 7, "closed": 23},
             "thursday": {"open": 7, "closed": 23},
             "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "saturday": {"open": 8, "closed": 23},
+            "sunday": {"open": 8, "closed": 23}
         }
     },
     {
@@ -114,8 +114,8 @@
             "wednesday": {"open": 7, "closed": 23},
             "thursday": {"open": 7, "closed": 23},
             "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "saturday": {"open": 8, "closed": 23},
+            "sunday": {"open": 8, "closed": 23}
         }
     },
     {
@@ -130,9 +130,9 @@
             "tuesday": {"open": 7, "closed": 23},
             "wednesday": {"open": 7, "closed": 23},
             "thursday": {"open": 7, "closed": 23},
-            "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "friday": {"open": 7, "closed": 0},
+            "saturday": {"open": 8, "closed": 0},
+            "sunday": {"open": 8, "closed": 23}
         }
     },
     {
@@ -143,13 +143,13 @@
         "category": "coffeeshop",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a est facilisis, fermentum tellus sed, varius nibh. Pellentesque varius nec augue efficitur sollicitudin. Suspendisse felis diam, tempus et euismod et, gravida elementum tortor.",
         "hours": {
-            "monday": {"open": 7, "closed": 23},
-            "tuesday": {"open": 7, "closed": 23},
-            "wednesday": {"open": 7, "closed": 23},
-            "thursday": {"open": 7, "closed": 23},
-            "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "monday": {"open": 7, "closed": 21},
+            "tuesday": {"open": 7, "closed": 21},
+            "wednesday": {"open": 7, "closed": 21},
+            "thursday": {"open": 7, "closed": 21},
+            "friday": {"open": 7, "closed": 21},
+            "saturday": {"open": 8, "closed": 21},
+            "sunday": {"open": 8, "closed": 21}
         }
     },
     {
@@ -160,13 +160,13 @@
         "category": "coffeeshop",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a est facilisis, fermentum tellus sed, varius nibh. Pellentesque varius nec augue efficitur sollicitudin. Suspendisse felis diam, tempus et euismod et, gravida elementum tortor.",
         "hours": {
-            "monday": {"open": 7, "closed": 23},
-            "tuesday": {"open": 7, "closed": 23},
-            "wednesday": {"open": 7, "closed": 23},
-            "thursday": {"open": 7, "closed": 23},
-            "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "monday": {"open": 7, "closed": 22},
+            "tuesday": {"open": 7, "closed": 22},
+            "wednesday": {"open": 7, "closed": 22},
+            "thursday": {"open": 7, "closed": 22},
+            "friday": {"open": 7, "closed": 22},
+            "saturday": {"open": 9, "closed": 22},
+            "sunday": {"open": 9, "closed": 22}
         }
     },
     {
@@ -177,13 +177,13 @@
         "category": "coffeeshop",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a est facilisis, fermentum tellus sed, varius nibh. Pellentesque varius nec augue efficitur sollicitudin. Suspendisse felis diam, tempus et euismod et, gravida elementum tortor.",
         "hours": {
-            "monday": {"open": 7, "closed": 23},
-            "tuesday": {"open": 7, "closed": 23},
-            "wednesday": {"open": 7, "closed": 23},
-            "thursday": {"open": 7, "closed": 23},
-            "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "monday": {"open": 7, "closed": 21},
+            "tuesday": {"open": 7, "closed": 21},
+            "wednesday": {"open": 7, "closed": 21},
+            "thursday": {"open": 7, "closed": 21},
+            "friday": {"open": 7, "closed": 21},
+            "saturday": {"open": 9, "closed": 21},
+            "sunday": {"open": 9, "closed": 21}
         }
     },
     {
@@ -194,13 +194,13 @@
         "category": "coffeeshop",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a est facilisis, fermentum tellus sed, varius nibh. Pellentesque varius nec augue efficitur sollicitudin. Suspendisse felis diam, tempus et euismod et, gravida elementum tortor.",
         "hours": {
-            "monday": {"open": 7, "closed": 23},
-            "tuesday": {"open": 7, "closed": 23},
-            "wednesday": {"open": 7, "closed": 23},
-            "thursday": {"open": 7, "closed": 23},
-            "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "monday": {"open": 7, "closed": 21},
+            "tuesday": {"open": 7, "closed": 21},
+            "wednesday": {"open": 7, "closed": 21},
+            "thursday": {"open": 7, "closed": 21},
+            "friday": {"open": 7, "closed": 22},
+            "saturday": {"open": 9, "closed": 22},
+            "sunday": {"open": 9, "closed": 21}
         }
     },
     {
@@ -211,13 +211,13 @@
         "category": "coffeeshop",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a est facilisis, fermentum tellus sed, varius nibh. Pellentesque varius nec augue efficitur sollicitudin. Suspendisse felis diam, tempus et euismod et, gravida elementum tortor.",
         "hours": {
-            "monday": {"open": 7, "closed": 23},
-            "tuesday": {"open": 7, "closed": 23},
-            "wednesday": {"open": 7, "closed": 23},
-            "thursday": {"open": 7, "closed": 23},
-            "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "monday": {"open": 7, "closed": 21},
+            "tuesday": {"open": 7, "closed": 21},
+            "wednesday": {"open": 7, "closed": 21},
+            "thursday": {"open": 7, "closed": 21},
+            "friday": {"open": 7, "closed": 21},
+            "saturday": {"open": 9, "closed": 21},
+            "sunday": {"open": 9, "closed": 21}
         }
     },
     {
@@ -228,13 +228,13 @@
         "category": "coffeeshop",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a est facilisis, fermentum tellus sed, varius nibh. Pellentesque varius nec augue efficitur sollicitudin. Suspendisse felis diam, tempus et euismod et, gravida elementum tortor.",
         "hours": {
-            "monday": {"open": 7, "closed": 23},
-            "tuesday": {"open": 7, "closed": 23},
-            "wednesday": {"open": 7, "closed": 23},
-            "thursday": {"open": 7, "closed": 23},
-            "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "monday": {"open": 8, "closed": 20},
+            "tuesday": {"open": 8, "closed": 20},
+            "wednesday": {"open": 8, "closed": 20},
+            "thursday": {"open": 8, "closed": 20},
+            "friday": {"open": 8, "closed": 20},
+            "saturday": {"open": 10, "closed": 20},
+            "sunday": {"open": 8, "closed": 20}
         }
     },
     {
@@ -245,47 +245,47 @@
         "category": "coffeeshop",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a est facilisis, fermentum tellus sed, varius nibh. Pellentesque varius nec augue efficitur sollicitudin. Suspendisse felis diam, tempus et euismod et, gravida elementum tortor.",
         "hours": {
-            "monday": {"open": 7, "closed": 23},
-            "tuesday": {"open": 7, "closed": 23},
-            "wednesday": {"open": 7, "closed": 23},
-            "thursday": {"open": 7, "closed": 23},
-            "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "monday": {"open": 8, "closed": 21},
+            "tuesday": {"open": 8, "closed": 21},
+            "wednesday": {"open": 8, "closed": 21},
+            "thursday": {"open": 8, "closed": 21},
+            "friday": {"open": 8, "closed": 22},
+            "saturday": {"open": 9, "closed": 22},
+            "sunday": {"open": 9, "closed": 22}
         }
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "Huracán",
         "position": { "lat": 54.686542232772865, "lng": 25.281957954262737 },
         "address": "Totorių g. 1, Gedimino pr. 10, 01103 Vilnius",
         "category": "coffeeshop",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a est facilisis, fermentum tellus sed, varius nibh. Pellentesque varius nec augue efficitur sollicitudin. Suspendisse felis diam, tempus et euismod et, gravida elementum tortor.",
         "hours": {
-            "monday": {"open": 7, "closed": 23},
-            "tuesday": {"open": 7, "closed": 23},
-            "wednesday": {"open": 7, "closed": 23},
-            "thursday": {"open": 7, "closed": 23},
-            "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "monday": {"open": 7, "closed": 20},
+            "tuesday": {"open": 7, "closed": 20},
+            "wednesday": {"open": 7, "closed": 20},
+            "thursday": {"open": 7, "closed": 20},
+            "friday": {"open": 7, "closed": 20},
+            "saturday": {"open": 7, "closed": 20},
+            "sunday": {"open": 7, "closed": 20}
         }
     }, 
     {
-        "id": 16,
+        "id": 17,
         "name": "National Library",
         "position": { "lat": 54.6905973, "lng": 25.2609656 },
         "address": "Gedimino pr. 51, 01109 Vilnius",
         "category": "library",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a est facilisis, fermentum tellus sed, varius nibh. Pellentesque varius nec augue efficitur sollicitudin. Suspendisse felis diam, tempus et euismod et, gravida elementum tortor.",
         "hours": {
-            "monday": {"open": 7, "closed": 23},
-            "tuesday": {"open": 7, "closed": 23},
-            "wednesday": {"open": 7, "closed": 23},
-            "thursday": {"open": 7, "closed": 23},
-            "friday": {"open": 7, "closed": 23},
-            "saturday": {"open": 7, "closed": 23},
-            "sunday": {"open": 7, "closed": 23}
+            "monday": {"open": 8, "closed": 21},
+            "tuesday": {"open": 8, "closed": 21},
+            "wednesday": {"open": 8, "closed": 21},
+            "thursday": {"open": 8, "closed": 21},
+            "friday": {"open": 8, "closed": 21},
+            "saturday": {"open": 10, "closed": 18},
+            "sunday": {"open": 10, "closed": 18}
         }
      
     }
