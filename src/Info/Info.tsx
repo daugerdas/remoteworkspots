@@ -19,6 +19,8 @@ function Info(props: { activeMarker: number | null; data: Marker[] }) {
 
   useEffect(() => setExpanded(false), [props.activeMarker]);
 
+  const today = new Date().getDay();
+
   if (props.activeMarker === -1)
     return (
       <div className="info-container" style={{ padding: "1em", width: "30em" }}>
@@ -34,8 +36,6 @@ function Info(props: { activeMarker: number | null; data: Marker[] }) {
         </div>
       </div>
     );
-
-  const today = new Date().getDay();
 
   return (
     <div className="info-container" style={{ padding: "1em", width: "30em" }}>
@@ -91,7 +91,7 @@ function Info(props: { activeMarker: number | null; data: Marker[] }) {
             {(today === 4 || expanded) && <div>Thursday</div>}
             {(today === 5 || expanded) && <div>Friday</div>}
             {(today === 6 || expanded) && <div>Saturday</div>}
-            {(today === 7 || expanded) && <div>Sunday</div>}
+            {(today === 0 || expanded) && <div>Sunday</div>}
           </div>
           <div>
             {(today === 1 || expanded) && (
@@ -184,7 +184,7 @@ function Info(props: { activeMarker: number | null; data: Marker[] }) {
                   : null}
               </div>
             )}
-            {(today === 7 || expanded) && (
+            {(today === 0 || expanded) && (
               <div>
                 {props.activeMarker
                   ? props.data.find(
