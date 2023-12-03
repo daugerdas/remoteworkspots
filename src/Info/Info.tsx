@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
-import logo from "./remoteworkspots.svg";
 import "./Info.css";
-import coffeeshopcategory from "./coffeeshopcategory.svg";
-import librarycategory from "./librarycategory.svg";
+import logo from "../assets/remoteworkspots.svg";
+import coffeeshopcategory from "../assets/coffeeshopcategory.svg";
+import librarycategory from "../assets/librarycategory.svg";
 
 type Marker = {
   id: number;

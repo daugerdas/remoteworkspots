@@ -1,7 +1,7 @@
 import React, { Dispatch, SetStateAction } from "react";
 import { GoogleMap, useJsApiLoader } from "@react-google-maps/api";
 import { Marker } from "@react-google-maps/api";
-import data from "./data.json";
+import data from "../data/data.json";
 
 type MarkerType = {
   id: number;
@@ -57,7 +57,7 @@ function Map(props: {
         <Marker
           position={item.position}
           onClick={() => props.setActiveMarker(item.id)}
-          icon={{ url: require(`./${item.category}.svg`), scale: 6 }}
+          icon={{ url: require(`../assets/${item.category}.svg`), scale: 6 }}
         />
       ))}
     </GoogleMap>
