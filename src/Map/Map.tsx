@@ -55,6 +55,7 @@ function Map(props: {
     >
       {data.map((item) => (
         <Marker
+          key={item.id}
           position={item.position}
           onClick={() => props.setActiveMarker(item.id)}
           icon={{ url: require(`../assets/${item.category}.svg`), scale: 6 }}
